@@ -24,3 +24,6 @@
 
 #### 카드 앞면 예시 화면
 <img width="1919" height="1029" alt="스크린샷 2026-07-16 183143" src="https://github.com/user-attachments/assets/5acf803c-94c7-4d00-b84b-c96e113a5859" />
+
+## 프로젝트 설치 및 실행
+[프로그램 다운로드](복사한_링크_주소)
