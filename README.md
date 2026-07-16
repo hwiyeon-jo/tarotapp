@@ -26,4 +26,4 @@
 <img width="1919" height="1029" alt="스크린샷 2026-07-16 183143" src="https://github.com/user-attachments/assets/5acf803c-94c7-4d00-b84b-c96e113a5859" />
 
 ## 프로젝트 설치 및 실행
-**[APK 다운로드](f70460206af4369e57f85ed34ec1b2bf53d1f6501db9490efd3261f2ab156996](https://github.com/hwiyeon-jo/tarotapp/releases/download/v1.0.0/app-release.apk)**
+**[APK 다운로드](https://github.com/hwiyeon-jo/tarotapp/releases/download/v1.0.0/app-release.apk)**
