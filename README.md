@@ -1,8 +1,7 @@
-# untitled1
+# 1. 로그인, 회원 가입 화면
 
-A new Flutter project.
 
-## Getting Started
+# 2. 홈 화면
 
 This project is a starting point for a Flutter application.
 
