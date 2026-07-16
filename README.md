@@ -1,4 +1,7 @@
-# 1. 로그인, 회원 가입 화면
+# 1. 로그인 화면
+- 로그인
+<img width="1916" height="1019" alt="스크린샷 2026-07-16 183035" src="https://github.com/user-attachments/assets/5a614da9-3e44-4abe-aadc-adc4af450a24" /> 
+
 
 
 # 2. 홈 화면
